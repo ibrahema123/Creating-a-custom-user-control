@@ -1,0 +1,18 @@
+C:\Users\ibrah\source\repos\user_control\custom user control\bin\Debug\net6.0-windows\custom user control.exe
+C:\Users\ibrah\source\repos\user_control\custom user control\bin\Debug\net6.0-windows\custom user control.deps.json
+C:\Users\ibrah\source\repos\user_control\custom user control\bin\Debug\net6.0-windows\custom user control.runtimeconfig.json
+C:\Users\ibrah\source\repos\user_control\custom user control\bin\Debug\net6.0-windows\custom user control.dll
+C:\Users\ibrah\source\repos\user_control\custom user control\bin\Debug\net6.0-windows\custom user control.pdb
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom_user_control.frmUserControl.resources
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom_user_control.ucContry.resources
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.dll
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\refint\custom user control.dll
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.pdb
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\custom user control.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\user_control\custom user control\obj\Debug\net6.0-windows\ref\custom user control.dll
